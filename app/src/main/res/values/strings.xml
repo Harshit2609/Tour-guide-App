@@ -1,0 +1,116 @@
+<resources>
+    <string name="app_name">ScrollViewExample2</string>
+    <string name="description_txt">Jaipur, The Pink City is a major tourist centre of the country.\n The city is packed with many attractions like beautiful and glorious forts, world famous theatres, gorgeous temples and many more.\n
+\n
+        \n
+
+        CITY PALACE:\n
+
+Distance from the city center: Situated at city center\n
+
+Built in: 19th century\n
+
+Charges: Indians Rs. 35.00 and for foreigners Rs.150.00 inclusive of entry to Jaigarh fort\n
+
+Timings: 930 to 1645 hrs.\n
+
+Specialty: Temple, Chandra Mahal, Govind Devji, Diwan-e-am\n
+        \n
+
+
+       JAI GARH FORT:\n
+Distance from the city center: 15 km\n
+
+Built in: 1726\n
+
+Charges: Rs. 15.00 for Indians and Rs. 20.00 for foreigners\n
+
+Timings: 1000 to 1845 hrs\n
+
+Specialty: Collection of Ammunition, Worlds largest Canon\n
+        \n
+
+        CITY PALACE\n
+The City Palace is the present-day residence of the current Maharaja of Jaipur, His Highness, Sawai Bhawani Singh Bahadur. It is also evident of the life spent by Late Raj Mata Gayatri Devi (Queen of Jaipur).
+        \n
+        \n
+
+        JAL MAHAL\n
+One of the most magnificent palaces, Jal Mahal is also recognized as the Water Palace. Built in 1799, Jal Mahal Palace was built in Man Sagar Lake enclosed by the Nahargarh Hills. The palace was once used for the imperial duck shooting parties. The first four floors of Jal Mahal are under water and only the top floor is higher than the water level.\n
+        \n
+
+
+    </string>
+
+
+    <string name="delhi">DELHI</string>
+
+
+
+
+    <string name="description1_txt">Delhi has seen a number of dynasties rise and die in its soil for many centuries. Delhi attractions including monuments, cenotaphs and mausoleums of kings and queens fringed in the city still narrate the bloody heritage of the city.\n
+    \n
+        RED FORT:\n
+        Built in the red sandstone, the magnificent Red Fort or Lal Qila is amongst important Delhi attractions. It is yet another creation by the Emperor Shah Jahan after Taj Mahal which will be remembered by the people eternally. It is a part of the walled city of Shahjahanabad in Old Delhi.\n
+    \n
+        JAMA MASJID: The Royal Mosque\n
+        Located just opposite the Red Fort is the imposing Jama Masjid with its black and white striped onion domes and minarets is one of the largest and the most elegant mosques in India. The sprawling courtyard has a capacity to hold 25,000 devotees at a time.\n
+        \n
+        NATIONAL RAIL MEUSEUM:\n
+        One of the best Delhi tourist places for lovers of railways. The fine outdoor museum has on view a range of locomotives and carriages ranging over the 150 years of the railways in India. A toy train takes children around the museum.\n
+        \n
+        CRAFTS MUSEUM:\n
+The Crafts Museum with its fine collection of textiles and artifacts is set in a delightful rustic village complex in the Pragati Maidan grounds. Here rural craftsmen come every month from different parts of the country to demonstrate their techniques and sell their beautiful crafts. For lovers of art and crafts, this is one of the must Delhi places to visit.\n
+        \n
+    LOTUS TEMPLE:\n
+        Beautifully designed, the Baha i House of Worship (also known as the Lotus Temple) is worth visitng Delhi attractions, built in the shape of a lotus. Its petals constructed in concrete and faced with white marble have an extraordinary lightness.\n
+        \n
+        AKSHARDHAM TEMPLE:\n
+        The world famed Akshardham Temple is worth visiting amongst Delhi attractions. The exquisite Temple situated on the bank of the serene river Yamuna is a wonder to the modern world. Embellished with 20,000 statues, floral motifs, arches and intricately carved pillars show the immense artistry that human hand can do.\n
+        \n
+    </string>
+
+
+    <string name="goa">GOA</string>
+
+    <string name="description2_txt">Goa is popularly known as the Pearl of the orient and tourist paradise. It is located in Indias coastal belt on the western called the Konkan coast. It has an alarming scenic beauty. The architectural work done Goan Temples, Churches and old houses has brought great laurels to Goa.\n
+    \n
+        BEACHES:\n
+There are more than 36 beaches in Goa, each one is known for its own distinctiveness. North Goa beaches are most popular amongst the tourists while South Goa beaches are now gaining popularity because of its peacefulness.\n
+        \n
+
+        SCENIC BEAUTY:\n
+Goa has number of other scenic options. One such attraction is Waterfall. Goa lies between Sahyadri hills and Arabian Sea. Goa is full of beautiful springs, lakes, and waterfalls. While traveling to these places one gets to see the natural beauty of Goa. Dudhsagar Water Falls, Kesarval Springs, Mayem Lake, Arvalem Waterfall, Kuskem Waterfall are some of the famous water falls in Goa.\n
+        \n
+
+        WILDLIFE SANCTURIES:\n
+Bhagwan Mahavir Wildlife, Sanctuary,Salim Ali Bird Sanctuary, Mollem National Park, Bondla wild life Forest, Cotigao Wildlife Sanctuary, are some of the famous wild life centuries.\n
+        \n
+
+        TEMPLE:\n
+In olden times when Portuguese invaded Goa. In every village of Goa there was a temple and a lord to worship for each village. These temples still exist giving each village a distinct feature to differentiate. For example, Mangeshi Temple of Mangeshi village.\n
+        \n
+    </string>
+
+    <string name="kerala">KERALA</string>
+     <string name="description3_txt">Kerala, a state situated on the tropical Malabar Coast of southwestern India, is one of the most popular tourist destinations in the country.Its unique culture and traditions, coupled with its varied demography, have made Kerala one of the most popular tourist destinations in the world. Growing at a rate of 13.31%, the tourism industry is a major contributor to the states economy.\n
+    \n
+
+    BACKWATERS:\n
+    The backwaters in Kerala are a chain of brackish lagoons and lakes lying parallel to the Arabian Sea coast (known as the Malabar Coast). Houseboat or Kettuvallam rides in the backwaters are a major tourist attraction. Backwater tourism is centered mostly around Ashtamudi Lake, Kollam.\n
+    \n
+
+    HILL STATIONS:\n
+    Eastern Kerala consists of land encroached upon by the Western Ghats; the region thus includes high mountains, gorges, and deep-cut valleys. The wildest lands are covered with dense forests, while other regions lie under tea and coffee plantations (established mainly in the 19th and 20th centuries) or other forms of cultivation.\n
+    \n
+
+    WILDLIFE:\n
+    Most of Kerala, whose native habitat consists of wet evergreen rainforests at lower elevations and highland deciduous and semi-evergreen forests in the east, is subject to a humid tropical climate. However, significant variations in terrain and elevation have resulted in a land whose biodiversity registers as among the world’s most significant.\n
+    \n
+
+    BEACHES:\n
+    Flanked on the western coast by the Arabian Sea, Kerala has a long coastline of 580 km (360 mi); all of which is virtually dotted with sandy beaches.Kovalam beach near Thiruvananthapuram was among the first beaches in Kerala to attract tourists.\n
+    \n
+    </string>
+
+</resources>
